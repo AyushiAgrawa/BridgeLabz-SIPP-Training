@@ -1,4 +1,4 @@
-package Day3_ProgrammingElements;
+package Day3_ProgrammingElements.Level1;
 import java.util.Scanner;
 public class SpringSeason {
 
