@@ -58,6 +58,13 @@
 - **Assignments:** Workshop Programs
 - [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/Workshop/Day1_ProgrammingElement)
 
+---
+
+### ✅ **Day 10**
+- **Topic:** OOPS
+- **Assignments:** Java Constructors, Instance vs. Class Variables, Access Modifiers
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/OOPS/Day2_ProgrammingElements)
+
 
 
 ## 📌 **Notes**
