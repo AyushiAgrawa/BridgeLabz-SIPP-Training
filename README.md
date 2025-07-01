@@ -65,6 +65,13 @@
 - **Assignments:** Java Constructors, Instance vs. Class Variables, Access Modifiers
 - [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/OOPS/Day2_ProgrammingElements)
 
+---
+
+### ✅ **Day 11**
+- **Topic:** OOPS
+- **Assignments:** this, static, final , keywords and instanceof operator 
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/OOPS/Day3_ProgrammingElements)
+
 
 
 ## 📌 **Notes**
