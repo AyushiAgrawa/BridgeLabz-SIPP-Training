@@ -72,6 +72,14 @@
 - **Assignments:** this, static, final , keywords and instanceof operator 
 - [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/OOPS/Day3_ProgrammingElements)
 
+- ---
+
+### ✅ **Day 12**
+- **Topic:** OOPS
+- **Assignments:** Inheritance and its types 
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/OOPS/Day4_ProgrammingElements)
+
+- ---
 
 
 ## 📌 **Notes**
