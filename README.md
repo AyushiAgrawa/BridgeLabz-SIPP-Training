@@ -81,6 +81,10 @@
 
 - ---
 
+### ✅ **Day 12**
+- **Topic:** Workshop
+- **Assignments:** Cab invoice Calculator
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/Workshop/Day2_WorkshopPrograms)
 
 ## 📌 **Notes**
 - This README is updated regularly to track my training progress.
