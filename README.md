@@ -86,6 +86,22 @@
 - **Assignments:** Cab invoice Calculator
 - [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/Workshop/Day2_WorkshopPrograms)
 
+- ---
+
+### ✅ **Day 13**
+- **Topic:** OOPS
+- **Assignments:** Object Oriented Design Principles
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/OOPS/Day5_ProgrammingElements)
+
+- ---
+
+### ✅ **Day 14**
+- **Topic:** OOPS
+- **Assignments:** Encapsulation, Polymorphism, Interface and Abstract Class
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/OOPS/Day6_ProgrammingElement)
+
+- ---
+
 ## 📌 **Notes**
 - This README is updated regularly to track my training progress.
 - Each link redirects to the specific branch & folder for easy navigation.
