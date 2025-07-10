@@ -1,4 +1,4 @@
-package Day1_Programs.Day1_ProgrammingElement;
+package Day1_Programs.Day1_ProgramWorkshop;
 import java.util.*;
 public class ParkingLotGateSystem {
      public static void main(String[] args) {
