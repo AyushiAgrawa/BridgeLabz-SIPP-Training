@@ -102,6 +102,33 @@
 
 - ---
 
+### ✅ **Day 15**
+- **Topic:** Workshop
+- **Assignments:** University Course Enrollment System
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/Workshop/Day3_WorkshopPrograms)
+
+- ---
+
+### ✅ **Day 16**
+- **Topic:** Workshop
+- **Assignments:** Social Media Notification
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/Workshop/Day4_WorkshopProgram)
+
+- ---
+
+### ✅ **Day 17**
+- **Topic:** Workshop
+- **Assignments:** Web Browser Tab Navigation
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/Workshop/Day5_WorkshopPrograms)
+
+- ---
+
+### ✅ **Day 18**
+- **Topic:** Workshop
+- **Assignments:** Icecream Rush   and    MovieTime 
+- [🔗 View Code](https://github.com/AyushiAgrawa/BridgeLabz-SIPP-Training/tree/Workshop/Day6_WorkshopPrograms)
+
+- ---
 ## 📌 **Notes**
 - This README is updated regularly to track my training progress.
 - Each link redirects to the specific branch & folder for easy navigation.
